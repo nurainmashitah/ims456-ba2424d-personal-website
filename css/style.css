@@ -1,1 +1,167 @@
+ table, tr, td, th
+	{
+		font-family: imprint mt shadow;
+		border:1px solid black;
+		border-collapse: none;
+	}
+
+tr:hover
+	{
+		background-color:white;
+	}
+
+tr:nth-child(odd)
+	{
+		background-color:#f333ff;
+	}
+
+tr
+	{
+		background-color:#ff80dd;
+	}
+
+th
+	{
+		background-color:#a020f0;
+	}
+
+td
+	{
+		padding: 17px;
+		text-align: left;
+	}
+
+div.menu
+	{
+		padding: 20px;
+		background-color:black;
+	}
+
+ul
+	{
+	font-family: imprint mt shadow;
+	list-style-type:none;
+	background-color:aqua;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+
+li
+	{
+		font-family: imprint mt shadow;
+		float:left;
+
+	}
+
+li a
+	{
+		font-family: imprint mt shadow;
+		display: block;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		color: black;
+	}
+
+li a:hover
+	{
+		font-family: imprint mt shadow;
+		background-color: silver;
+	}
+
+ul
+	{
+		font-family: imprint mt shadow;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: transparent;
+	}
+
+div.kotakbesar
+	{
+		font-family: imprint mt shadow;
+		float:right;
+		width:50%;
+		height:600;
+		background-color:white;
+	}
+
+a.btn-get-started
+	{
+		font-family: "Poppins", sans-serif;
+  		text-transform: uppercase;
+	  	font-weight: 500;
+	  	font-size: 16px;
+	  	letter-spacing: 1px;
+	  	display: inline-block;
+	  	padding: 8px 28px;
+	  	border-radius: 50px;
+	  	transition: 0.5s;
+	  	margin: 10px;
+	  	border: 2px solid #fff;
+	  	color: #fff;
+	}
+
+a.btn-get-started:hover
+	{
+		background: #2dc997;
+  		border: 2px solid #2dc997;
+  	}
+
+div.kotak1
+	{
+		font-family: imprint mt shadow;
+		float:left;
+		width: 25%;
+		height: 175px;
+		background-color: #ab92b3;
+	}
+
+div.kotak2
+	{
+		font-family: imprint mt shadow;
+		float:left;
+		width: 25%;
+		height: 175px;
+		background-color: #bcd2ee;
+	}
+
+div.kotak3
+	{
+		font-family: imprint mt shadow;
+		float:left;
+		width: 25%;
+		height: 175px;
+		background-color: #ab92b3;
+	}
+
+div.kotak4
+	{
+		font-family: imprint mt shadow;
+		float:left;
+		width: 25%;
+		height: 175px;
+		background-color: #bcd2ee;
+	}
+
+div.kotak5
+	{
+		font-family: imprint mt shadow;
+		float:left;
+		width: 50%;
+		height: 250px;
+		background-color: #ab92b3;
+	}
+
+div.kotak6
+	{
+		font-family: imprint mt shadow;
+		float:left;
+		width: 50%;
+		height: 250px;
+		background-color: #bcd2ee;
+	}
 
